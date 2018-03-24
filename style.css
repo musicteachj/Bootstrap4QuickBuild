@@ -1,0 +1,29 @@
+.center {
+	color: blue;
+	margin-left: 600px;
+	font-family: 'Indie Flower', cursive;
+}
+
+.round {
+	border-radius: 25px;
+}
+
+.box {
+  float: left;
+  width: 200px;
+  height: 100px;
+  margin: 1em;
+}
+
+.second {
+	margin-top: 50px;
+}
+
+.pic {
+	height: 340px;
+}
+
+.names {
+	font-family: 'Indie Flower', cursive;
+	color: blue;
+}
