@@ -28,10 +28,12 @@ body {
 
 .pic {
 	height: 340px;
+	border-radius: 25px;
 }
 
 .card {
 	background-color: grey;
+	border-radius: 25px;
 }
 
 .names {
